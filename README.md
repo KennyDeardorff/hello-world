@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# About Me
+A Software Developer working on developing myself.
